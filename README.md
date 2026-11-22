@@ -9,15 +9,25 @@ O MedKey é um aplicativo desenvolvido para ajudar pessoas, especialmente idosos
 Integrantes:
 
 Ana Beatriz
+
 Antonia Vital
+
 Isabel Ramos
+
 Livia Tavares
+
 Manuela Torres
+
 Thainini
 
 Materiais do projeto:
+
 Protótipo Figma: [https://www.figma.com/design/eXpphtDtj2Y9YrnzfGKGsB/Medkey-App?node-id=0-1&t=Wu0xDWmFhI7SHQYk-1]
+
 Protótipo do Modo Infantil:[https://www.figma.com/design/7hXtlOY3b711Yt0CNTNqRB/Medkey-Modo-Infantil?node-id=0-1&t=Zz77dg7C3BVMRyz7-1]
+
 Telas do aplicativo: Pasta 01-figma
+
 Modelo Entidade-Relacionamento (DER): Pasta 02-modelagem
+
 Apresentação: Pasta 03-apresentacao
