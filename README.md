@@ -8,18 +8,13 @@ Sobre o projeto
 
 O MedKey é um aplicativo desenvolvido para ajudar pessoas, especialmente idosos e pais ou responsáveis por crianças, a lembrarem dos horários e das doses dos medicamentos. Seu objetivo é evitar esquecimentos e erros, tornando o uso de medicamentos mais seguro e organizado.
 
-Integrantes
+Integrantes:
 
 Ana Beatriz
-
 Antonia Vital
-
 Isabel Ramos
-
 Livia Tavares
-
 Manuela Torres
-
 Thainini
 
 Materiais do projeto
